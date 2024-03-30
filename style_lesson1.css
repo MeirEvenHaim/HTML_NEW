@@ -1,0 +1,64 @@
+input {
+  background: #eef1bc;
+  border: 2px solid green;
+  border-radius: 4px;
+  height: 30px;
+  width: 100%;
+}
+.meir {
+  display: flex;
+  justify-content: center;
+  margin-inline-start: auto;
+  font-size: xx-large;
+  color: rgb(255, 255, 255);
+}
+
+body {
+  color: rgb(255, 255, 255);
+  background-image: url("media/images/pexels-pixabay-36717.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: scroll;
+  font-size: large;
+}
+.egor {
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  font-size: x-large;
+  color: rgb(255, 255, 255);
+}
+
+.container {
+  display: flex;
+  max-width: 50%;
+  text-align: justify;
+  margin-left: 25%;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.row-status {
+  display: inline-flex;
+}
+
+button {
+  background-color: rgb(0, 0, 0);
+  border: 1px solid green;
+  width: 100px;
+  height: 25px;
+  color: aliceblue;
+}
+a {
+  color: aliceblue;
+}
+
+.rooster {
+  display: block;
+  text-indent: 30px;
+}
